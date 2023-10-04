@@ -1,0 +1,24 @@
+judul skripsi
+penerapan algoritma k-means padaklasifikasi warga miskin di desa sukadarma kecamatan sukatani kabupaten bekasi
+abstraksi
+penanggulangan kemiskinan merupakan salah satu tugas pemerintah daerah yang harus di jalankan sesuai dengan amanah peraturan perundangan, sehingga
+pengklasifikasian atau pendapatan yang baik merupakan suatu hal yang harus di lakukan. Untuk mendapatkan hasil tersebut maka dibutuhkan penerapan
+teknologi masa kini yaitu tentang pemanfaatan program aplikasi. Program aplikasi merupakan salah satu cara yang efektif dalam hal pengklasifikasian
+warga miskin tersebut. Keberadaan program aplikasi tentunya akan memberikan data yang akurat dan tepat, sehingga kebijakan yang harus di ambil oleh
+pemerintah desa sukadarma jadi tempat sasaran atau dengan kata lain sesuai dengan kebutuhan masyarakat. Pengklasifikasian data warga miskin juga dapat
+menentukan arah kebijakan bagi pemerintah daerah dalam hal program mengentaskan kemiskina. Klasifikasi pendapatan warga miskin dengan memanfaatkan teknologi terkini
+untuk memenuhi kebutuhan perangkat desa,sebagai suatu pemecahan masalah dari ketidakak akuratan, ketepatan data untuk mendapatkan hasil klasifikasi warga miskin, proses
+dan tujuan dari klasifikasi itu sendiri. Tujuan penelitian ini adalah membuat program aplikasi klasifikasi warga miskin, dengan menggunakan metode k-means sebagai
+pengambilan keputusan klasifikasi warga miskin. Hasil dari pembuatan program aplikasi klasifikasi warga miskin, di desa sukadarma kecamatan sukatani kabupaten bekasi, dengan
+metode k-means adalah untuk mempermudah perangkat desa, dalam mendapatkan hasil secara tepat sasaran, data akurat secara efesien waktu.
+
+keyword: klasifikasi, kemiskinan,algoritma k-means, php, MySQL.
+Kesimpulan  :
+berdasarkan uraian pembahasan pada bab-bab sebelumnya, maka dapat diambil kesimpulan terhadap proses pembuatan penerapan algoritma k-means pada klasifikasi warga miskin
+di desa sukadarma kecamatan sukatani kab.bekasi menggunakan PHP dan MySQL sebagai berikut: 
+1. penerapan algoritma k-means dilakukan dengan memberikan nilai bobot dari setiap kriteria yang ada, nantinya proses penentuan dilakukan dengan menjumlahkan nilai dari 
+   setiap kriteria, sehingga akan dihasilkan pengelompokkan dari setiap warga serta memberikan informasi yang mana yang termasuk warga mampu dan yang mana yang termasuk
+   warga miskin.
+2. pengelompokkan warga miskin di desa sukadarma sudah mendapatkan informasi yang tepat sasarannya untuk menentukan warga yang mana termasuk warga mampu tau warga miskin 
+3. penerapan algoritma k-means dalam mengelompokkan warga miskin di desa sukadarma menggunakan PHP dam MySQL sebagai pola perhitungan pada kriteria yang sudah di tentukan 
+   sehingga mendapatkan hasil yang maksimal.
